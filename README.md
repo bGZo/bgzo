@@ -8,6 +8,10 @@
 - 📫 How to reach me: Tweet or Telegram is better.
 - 😄 Pronouns: DandelionFs
 
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="http://blog.dfslfh.cn/usr/uploads/2020/07/3232114523.mp3">
+</audio>
+
 <!--
 **DandelionFs/dandelionfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<audio id="audio" controls="" preload="none">
-<source id="mp3" src="http://blog.dfslfh.cn/usr/uploads/2020/07/3232114523.mp3">
-</audio>
