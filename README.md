@@ -1,3 +1,3 @@
-[![DandelionFs github stats](https://github-readme-stats.vercel.app/api?username=dandelionfs)](https://github.com/anuraghazra/github-readme-stats)
+![DandelionFs github stats](https://github-readme-stats.vercel.app/api?username=dandelionfs)
 
-Thx this card for [github-readme-stats](//github.com/anuraghazra/github-readme-stats) & [Github](//github.com).
+Powered By [github-readme-stats](//github.com/anuraghazra/github-readme-stats) 🤍 [Github](//github.com).
