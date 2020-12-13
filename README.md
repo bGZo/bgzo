@@ -4,6 +4,6 @@ Love code but not work......
 
 Mostly I wanna code slowly and happily after I retired.
 
-I wish I could insist commit daily and code more things I've never seen. Meanwhile, I have to keep individual thinking, cause millions of AI wanna replace me myself.
+I wish I could insist to push log daily and code more things I've never seen. Meanwhile, I have to keep individual thinking, cause millions of AI wanna replace me myself and you guys except other people.
 
 Fighting!!!
