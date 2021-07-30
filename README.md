@@ -20,16 +20,16 @@
 <img align="right" height="249" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"/>
 
 ```diff
-Hi👋, I'm bGZoCg, used dandelionflowers / dandelionfs before.
+hi👋, im bGZoCg, used dandelionflowers / dandelionfs before.
 And a short profile following:
 
-@@ IMU Undergraduate Student @@
+@@ IMU STU @@
 # 📖 major in Software Engineering
-! 🤔 Keeping individual thinking.
+! 🤔 keeping individual thinking
 
-- ❤️ Front End
-- 💻 Insisting to push log daily and coding.  
+- ❤️ front end
+- 💻 insisting to push log daily and coding  
 
-+ 🎯 Back End / Full Stack
-+ 🎯 Diversity is essential to happiness.
++ 👨‍💻 back end / full stack
++ 🎯 diversity is essential to happiness
 ```
