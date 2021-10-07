@@ -15,9 +15,11 @@
 <!--refer to the github profile: https://github.com/manolia-->
 
 
-![](https://komarev.com/ghpvc/?username=bGZoCg)
+![](https://komarev.com/ghpvc/?username=bGZoCg) <img src="https://img.shields.io/github/last-commit/bgzocg/bgzocg.github.io?color=ff69b4&label=blog%20update%20%40%20"/> 
 
-<img align="right" height="249" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"/>
+
+<img align="right" height="249" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif"/> 
+
 
 ```diff
 hi👋, im bGZoCg, used dandelionflowers / dandelionfs before.
