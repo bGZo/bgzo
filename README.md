@@ -37,6 +37,6 @@ And a short profile following:
 ```
 
 
-## What abooot me?
+## What about me?
 
 - [2021](https://github.com/bGZoCg/2021)
