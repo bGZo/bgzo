@@ -57,7 +57,7 @@ def days_till_now():
     return days
 
 def draw_year_progress_bar():
-    tmp = 'Year  Passed '
+    tmp = ' Year Passed '
     days = days_till_now()
     for i in range(0, round(days*15/days_in_year(date.today().year))):
         tmp += "▓"
@@ -81,7 +81,7 @@ def write_file():
         f.write(str(date.today()))
 
 def main():
-    progress = HEARDER + '\n' + '```\n' +  draw_year_progress_bar() + '\n' + draw_month_progress_bar() + '\n' + '```\n'+ PROFILE
+    progress = HEARDER + '\n' + '```\n' +  draw_year_progress_bar() + '\n\n' + draw_month_progress_bar() + '\n' + '```\n'+ PROFILE
     print(progress)
 
 main()
