@@ -3,6 +3,8 @@
 name: progress
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: '0 16 * * *'
   workflow_dispatch:
@@ -23,12 +25,13 @@ jobs:
         run: |
           python3 progress.py > README.md
         
-      - name: Push Git
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Update Porgress"
-          files: .
-          rebase: 'true'
-          name: bGZoCg
-          email: bgzocg@outlook.com
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
+      - name: Push Bookmark README
+        run: |
+          git config user.name bgzo
+          git config user.email lfh010618@gmail.com
+          git add .
+          git commit -m "Update Porgress"
+          git push
