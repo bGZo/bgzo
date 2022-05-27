@@ -5,9 +5,9 @@
 ## Progress Bar
 
 ```
- Year Passed ▓▓▓▓▓▓░░░░░░░░░ 40.0%
+ Year Passed ▓▓▓▓▓▓░░░░░░░░░ 40.27%
 
-Month Passed ▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 84%
+Month Passed ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 87%
 ```
 ## What About Me?
 
