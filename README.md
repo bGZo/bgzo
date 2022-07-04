@@ -1,13 +1,13 @@
-![](https://komarev.com/ghpvc/?username=bGZoCg) <img src="https://img.shields.io/github/last-commit/bgzo/blog?color=ff69b4&label=blog%20update%20%40%20"/> 
+![](https://komarev.com/ghpvc/?username=bGZoCg) <a href = "http://blog.bgzo.cc"><img src="https://img.shields.io/github/last-commit/bgzo/blog?color=ff69b4&label=blog%20update%20%40%20"/></a>
 
 <img align="right" width="30%" src="https://media.giphy.com/media/k8kITi9SAwe9JWbUaH/giphy.gif">
 
 ## Progress Bar
 
 ```
- Year Passed ▓▓▓▓▓▓▓▓░░░░░░░ 50.41%
+2022 Passed ▓▓▓▓▓▓▓▓░░░░░░░ 50.68%
 
-Month Passed ▓▓░░░░░░░░░░░░░ 10%
+Jul  Passed ▓▓░░░░░░░░░░░░░ 13%
 ```
 ## What About Me?
 
@@ -19,5 +19,6 @@ Month Passed ▓▓░░░░░░░░░░░░░ 10%
 + 🎯 diversity is essential to happiness
 ```
 
-- [2021](https://github.com/bGZoCg/2021)
+- [My 2021](https://github.com/bGZoCg/2021)
+- [My 2022](https://github.com/bGZoCg/2022)
 
