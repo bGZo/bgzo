@@ -7,7 +7,7 @@
 from datetime import date
 
 HEARDER = '''\
-![](https://komarev.com/ghpvc/?username=bGZoCg) <a href = "http://blog.bgzo.cc"><img src="https://img.shields.io/github/last-commit/bgzo/blog?color=ff69b4&label=blog%20update%20%40%20"/></a>
+[![](https://komarev.com/ghpvc/?username=bGZoCg&color=FEDFE1&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter) [![](https://img.shields.io/github/last-commit/bgzo/blog?style=flat-square&color=58B2DC&label=Blog%20update)](http://blog.bgzo.cc)
 
 <img align="right" width="30%" src="https://media.giphy.com/media/k8kITi9SAwe9JWbUaH/giphy.gif">
 
