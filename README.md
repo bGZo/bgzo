@@ -5,9 +5,9 @@
 ## Progress Bar
 
 ```
-2022 Passed ▓▓▓▓▓▓▓▓▓▓░░░░░ 66.85%
+2022 Passed ▓▓▓▓▓▓▓▓▓▓░░░░░ 67.12%
 
-Sep  Passed ░░░░░░░░░░░░░░░ 3%
+Sep  Passed ▓░░░░░░░░░░░░░░ 7%
 ```
 ## What About Me?
 
