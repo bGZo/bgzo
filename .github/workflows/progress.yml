@@ -31,7 +31,7 @@ jobs:
       - name: Push Bookmark README
         run: |
           git config user.name bgzo
-          git config user.email lfh010618@gmail.com
+          git config user.email bgzo@outlook.com
           git add .
           git commit -m "Update Porgress"
           git push
