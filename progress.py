@@ -25,8 +25,6 @@ PROFILE='''\
 + 🎯 diversity is essential to happiness
 ```
 
-- [My 2021](https://github.com/bGZoCg/2021)
-- [My 2022](https://github.com/bGZoCg/2022)
 '''
 
 
