@@ -5,9 +5,9 @@
 ## Progress Bar
 
 ```
-2024 Passed ▓▓▓▓▓▓▓░░░░░░░░ 43.44%
+2024 Passed ▓▓▓▓▓▓▓░░░░░░░░ 43.72%
 
-Jun  Passed ▓▓▓▓░░░░░░░░░░░ 23%
+Jun  Passed ▓▓▓▓░░░░░░░░░░░ 27%
 ```
 ## What About Me?
 
