@@ -1,0 +1,31 @@
+name: mirrors
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: output README
+        run: |
+          curl 'https://raw.githubusercontent.com/bGZo/notes/refs/heads/obsidian/README.md' -o README.md
+
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
+
+      - name: Push Bookmark README
+        run: |
+          git config user.name bgzo
+          git config user.email bgzo@outlook.com
+          git add .
+          git commit -m "Update Porgress"
+          git push
