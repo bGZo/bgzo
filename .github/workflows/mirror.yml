@@ -22,10 +22,14 @@ jobs:
         run: |
           git config --global --add safe.directory /github/workspace
 
-      - name: Push Bookmark README
+      - name: Push local changes
         run: |
-          git config user.name bgzo
-          git config user.email bgzo@outlook.com
-          git add .
-          git commit -m "Update Porgress"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name bgzo
+            git config user.email bgzo@outlook.com
+            git add .
+            git commit -m "Sync feed"
+            git push
+          else
+            echo "no changes";
+          fi
